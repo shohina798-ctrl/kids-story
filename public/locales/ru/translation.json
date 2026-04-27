@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "personData": "Персональные данные",
+    "adventages": "Преимущества",
+    "workschedule": "Расписание работы",
+    "video": "Видео",
+    "reviews": "Отзывы",
+    "kidCards": "Дополнительные услуги",
+    "centerKids": "О центре",
+    "sertificates": "Достижения",
+    "menu": "Меню питания",
+    "newsAdmin": "Новости",
+    "filesAdmin": "Файлы",
+    "title": "Администратор"
+  }
+}

@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+.wave {
+  background: #4f46e5;
+  height: 200px;
+  clip-path: polygon(
+    0% 50%, 
+    25% 60%, 
+    50% 40%, 
+    75% 60%, 
+    100% 50%, 
+    100% 100%, 
+    0% 100%
+  );
+}
